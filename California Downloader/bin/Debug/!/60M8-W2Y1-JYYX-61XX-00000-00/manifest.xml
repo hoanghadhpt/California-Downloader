@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icce_manifest fab_bundle_id="PR2020081723101300750" content_provider_id="cap12u" content_provider_scheme="ELDM_COLL_RESOLVED" content_target_type="mcs">
+<metadata>
+</metadata>
+<item id="A157790.PDF" selector="" action="add" version="00" guid="60M8-W2Y1-JYYX-61XX-00000-00" overrideConversionId="">
+<file type="source" name="A157790.PDF" md5sum="a3f95ed0574c5f8a38a0dd5eef6c465d" />
+<metadata>
+<pair key="CLINV_estKeyCharCount" value="25200"/>
+<pair key="CLINV_receivedDateTime" value="20200817_230807"/>
+<pair key="INV_keyTargetFormat" value="CCV6"/>
+<pair key="CLINV_courtName" value="COURT OF APPEAL OF CALIFORNIA, FIRST APPELLATE DISTRICT, DIVISION TWO"/>
+<pair key="CLINV_judge" value="VERIFY JUDGE"/>
+<pair key="CLINV_inventoryStore" value="DM"/>
+<pair key="CLINV_code" value="STCAP12U"/>
+<pair key="CLINV_docket" value="A157790"/>
+<pair key="CLINV_autoConvert" value="UNDEFINED"/>
+<pair key="MNCR_rci" value="1000200167"/>
+<pair key="CLINV_fastFlow" value="CASELAWFF"/>
+<pair key="DSAR_CATALOG_NUMBER" value="7828710"/>
+<pair key="CLINV_decisionDate" value="08-17-2020"/>
+<pair key="CLINV_fileSize" value="146463"/>
+<pair key="CLINV_TAT" value="60"/>
+</metadata>
+</item>
+</icce_manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icce_manifest fab_bundle_id="PR2020081723101300750" content_provider_id="cap51u" content_provider_scheme="ELDM_COLL_RESOLVED" content_target_type="mcs">
+<metadata>
+</metadata>
+<item id="F077944A.PDF" selector="" action="add" version="00" guid="60M8-W2Y1-JNCK-23P3-00000-00" overrideConversionId="">
+<file type="source" name="F077944A.PDF" md5sum="85382d7d8aa0cab7d70239182b9bb84a" />
+<metadata>
+<pair key="CLINV_estKeyCharCount" value="5400"/>
+<pair key="CLINV_receivedDateTime" value="20200817_230807"/>
+<pair key="INV_keyTargetFormat" value="CCV6"/>
+<pair key="CLINV_courtName" value="COURT OF APPEAL OF CALIFORNIA, FIFTH APPELLATE DISTRICT"/>
+<pair key="CLINV_judge" value="VERIFY JUDGE"/>
+<pair key="CLINV_inventoryStore" value="DM"/>
+<pair key="CLINV_code" value="STCAP51U"/>
+<pair key="CLINV_docket" value="F077944"/>
+<pair key="CLINV_autoConvert" value="UNDEFINED"/>
+<pair key="MNCR_rci" value="1000200167"/>
+<pair key="CLINV_fastFlow" value="CASELAWFF"/>
+<pair key="DSAR_CATALOG_NUMBER" value="7828712"/>
+<pair key="CLINV_decisionDate" value="08-17-2020"/>
+<pair key="CLINV_fileSize" value="76163"/>
+<pair key="CLINV_fullCaseName" value="SHARLET ROSTAM, Respondent, v. JOSEPH SARGIS ROSTAM, Appellant."/>
+<pair key="CLINV_TAT" value="60"/>
+</metadata>
+</item>
+</icce_manifest>

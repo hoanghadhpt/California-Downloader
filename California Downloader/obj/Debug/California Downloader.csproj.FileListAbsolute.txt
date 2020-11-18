@@ -1,0 +1,38 @@
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe.config
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.pdb
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csprojResolveAssemblyReference.cache
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Form1.resources
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Properties.Resources.resources
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.GenerateResource.Cache
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.exe
+c:\users\e1897\documents\visual studio 2015\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.pdb
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe.config
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.pdb
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csprojAssemblyReference.cache
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Form1.resources
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Properties.Resources.resources
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.GenerateResource.cache
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.exe
+D:\LEXIS NEXIS PROJECT\1897\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.pdb
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe.config
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.pdb
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csprojAssemblyReference.cache
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Form1.resources
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Properties.Resources.resources
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.GenerateResource.cache
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.exe
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.pdb
+D:\C#\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe.config
+D:\C#\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.exe
+D:\C#\Sync\Projects\California Downloader\California Downloader\bin\Debug\California Downloader.pdb
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csprojAssemblyReference.cache
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Form1.resources
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California_Downloader.Properties.Resources.resources
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.GenerateResource.cache
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.CoreCompileInputs.cache
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.exe
+D:\C#\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.pdb
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\California Downloader\California Downloader\obj\Debug\California Downloader.csproj.CoreCompileInputs.cache

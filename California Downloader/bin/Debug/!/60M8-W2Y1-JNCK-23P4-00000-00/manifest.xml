@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icce_manifest fab_bundle_id="PR2020081723101300750" content_provider_id="cap51u" content_provider_scheme="ELDM_COLL_RESOLVED" content_target_type="mcs">
+<metadata>
+</metadata>
+<item id="F077384.PDF" selector="" action="add" version="00" guid="60M8-W2Y1-JNCK-23P4-00000-00" overrideConversionId="">
+<file type="source" name="F077384.PDF" md5sum="80c67a5244069fc0191ecaad64defeff" />
+<metadata>
+<pair key="CLINV_estKeyCharCount" value="23400"/>
+<pair key="CLINV_receivedDateTime" value="20200817_230807"/>
+<pair key="INV_keyTargetFormat" value="CCV6"/>
+<pair key="CLINV_courtName" value="COURT OF APPEAL OF CALIFORNIA, FIFTH APPELLATE DISTRICT"/>
+<pair key="CLINV_judge" value="VERIFY JUDGE"/>
+<pair key="CLINV_inventoryStore" value="DM"/>
+<pair key="CLINV_code" value="STCAP51U"/>
+<pair key="CLINV_docket" value="F077384"/>
+<pair key="CLINV_autoConvert" value="UNDEFINED"/>
+<pair key="MNCR_rci" value="1000200167"/>
+<pair key="CLINV_fastFlow" value="CASELAWFF"/>
+<pair key="DSAR_CATALOG_NUMBER" value="7828714"/>
+<pair key="CLINV_decisionDate" value="08-17-2020"/>
+<pair key="CLINV_fileSize" value="115291"/>
+<pair key="CLINV_fullCaseName" value="THE PEOPLE, Plaintiff and Respondent, v. MATTHEW THOMAS CAMPOS, Defendant and Appellant."/>
+<pair key="CLINV_TAT" value="60"/>
+</metadata>
+</item>
+</icce_manifest>
